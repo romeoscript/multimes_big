@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Upload, Users, MessageCircle, Download, Send, Check, X, Loader, Phone, Lock } from 'lucide-react';
 
-const API_BASE = 'https://telegrambot-c8id.onrender.com';
+const API_BASE = 'https://telegrambot-1-u7qg.onrender.com';
 
 const TelegramManager = () => {
   // Authentication state
